@@ -5,6 +5,7 @@ Plantilla de repositorio para la asignatura 13MBID.
 **"Metodologías de Gestión de Proyectos de Big Data"**  
 *Master Universitario en Big Data y Ciencia de Datos  
 Universidad Internacional de Valencia*  
+Alumno: Irvin Ricardo Ramos Ramos
 
 Prof: Dr. Horacio Kuna
 Dictado: ABR24-25
